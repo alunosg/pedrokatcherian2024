@@ -1,0 +1,9 @@
+﻿The Bunker/.vs
+The Bunker/UserSettings
+*.sln
+*.csproj
+*.vsconfig
+The Bunker/Logs
+The Bunker/obj
+The Bunker/Library
+The Bunker/.vscode
